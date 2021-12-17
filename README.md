@@ -6,7 +6,7 @@
 
 #### If you want to try it, clone it and do `npm run start`
 
-#### Or click [here](https://www.example.com) to see the final result!
+#### Or click [here](https://jovial-saha-5cdcda.netlify.app/) to see the final result!
 
 ---
 
